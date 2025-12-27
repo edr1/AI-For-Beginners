@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+nifi:
+  base-url: http://localhost:8080/nifi-api
+  # root-process-group-id: ""
